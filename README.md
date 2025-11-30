@@ -1,3 +1,3 @@
-# Ola amiga 
+# Olá, amiga! 
 com professor guanabara 
-curso de Git e GitHub
+curso de Git e GitHub!
